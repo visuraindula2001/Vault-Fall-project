@@ -13,7 +13,6 @@ public class player : MonoBehaviour
 
     public float mouseSensitivity = 100f;
     public float jumpForce = 5f; // Adjust to control jump height
-    private bool isGrounded = true;
     private float xRotation = 0f;
 
     void Start()
@@ -36,11 +35,10 @@ public class player : MonoBehaviour
             playerRigid.velocity = -transform.forward * wb_speed * Time.deltaTime;
         }
 
-        // Jumping
-        if (isGrounded && Input.GetKeyDown(KeyCode.Space))
+        // Jumping (no ground check, can jump from any surface)
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             playerRigid.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
-            isGrounded = false;
             playerAnim.SetTrigger("jump");
         }
     }
@@ -113,14 +111,5 @@ public class player : MonoBehaviour
         xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f); // Limit look up/down to avoid full rotation
         cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
-    }
-
-    // Detect if the player is grounded
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
     }
 }

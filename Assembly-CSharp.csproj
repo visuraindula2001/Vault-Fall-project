@@ -65,6 +65,7 @@
     <Compile Include="Assets\Sripts\FlickeringLight.cs" />
     <Compile Include="Assets\Sripts\RotatingObstacles.cs" />
     <Compile Include="Assets\Sripts\player.cs" />
+    <Compile Include="Assets\Sripts\FallDamage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

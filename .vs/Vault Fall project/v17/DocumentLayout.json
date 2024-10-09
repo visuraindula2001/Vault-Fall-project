@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\visur\\Desktop\\Vault Fall project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|c:\\users\\visur\\desktop\\vault fall project\\assets\\sripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\sripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|c:\\users\\visur\\desktop\\vault fall project\\assets\\sripts\\falldamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\sripts\\falldamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "player.cs",
-              "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Sripts\\player.cs",
-              "RelativeDocumentMoniker": "Assets\\Sripts\\player.cs",
-              "ToolTip": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Sripts\\player.cs",
-              "RelativeToolTip": "Assets\\Sripts\\player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
+              "Title": "FallDamage.cs",
+              "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Sripts\\FallDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Sripts\\FallDamage.cs",
+              "ToolTip": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Sripts\\FallDamage.cs",
+              "RelativeToolTip": "Assets\\Sripts\\FallDamage.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T11:13:34.847Z",
+              "WhenOpened": "2024-10-09T20:22:54.667Z",
               "EditorCaption": ""
             }
           ]

@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menue.unity
+    guid: f87ca5c7960d86a4ab78ffa89a16a4e4
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/L1-VictoryMenue.unity
+    guid: a03d6b65d2126cd4982e05ee0492e3be
+  - enabled: 1
+    path: Assets/Scenes/L1-RetryMenue.unity
+    guid: 1d4873ca6344a484f991b4f86beffc68
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: b0b8fbc26ff6ea247acebd89ef4284ac
+  - enabled: 1
+    path: Assets/Scenes/L2-VictoryMenue.unity
+    guid: 0f15b4d48e0c55644bf7419057f72ed7
+  - enabled: 1
+    path: Assets/Scenes/L2-RetryMenue.unity
+    guid: a5f45a5ea3cb8c94e81ffba1b1232ecc
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: b38a3b79ed29a544d83e6a77c299f9b2
+  - enabled: 1
+    path: Assets/Scenes/L3-VictoryMenue.unity
+    guid: d4dc094e9e4ccf24684f3c1a63352b24
+  - enabled: 1
+    path: Assets/Scenes/L3-RetryMenue.unity
+    guid: d7ae213ad5ec4884faf4823734911d16
   m_configObjects: {}

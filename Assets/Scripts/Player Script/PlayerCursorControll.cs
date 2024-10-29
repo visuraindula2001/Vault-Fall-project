@@ -2,18 +2,21 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerCursorControll : MonoBehaviour
+public class PlayerCursorControl : MonoBehaviour
 {
     public Animator playerAnim;
     public Rigidbody playerRigid;
     public float w_speed, wb_speed, olw_speed, rn_speed, ro_speed;
     public bool walking;
     public Transform playerTrans;
-    public Transform cameraTransform; // Reference to the camera
+    public Transform cameraTransform;
 
     public float mouseSensitivity = 100f;
-    public float jumpForce = 5f; // Adjust to control jump height
+    public float jumpForce = 5f;
     private float xRotation = 0f;
+
+    public LayerMask groundMask; // Layer mask to detect ground
+    private bool isGrounded;
 
     void Start()
     {
@@ -21,35 +24,60 @@ public class PlayerCursorControll : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
     }
 
-    // FixedUpdate for physics-based movement
     void FixedUpdate()
     {
-        // Forward movement
+        HandleMovement();
+    }
+
+    void Update()
+    {
+        HandleMouseLook();
+        HandleAnimations();
+        CheckGroundStatus();
+    }
+
+    // Handle physics-based player movement
+    void HandleMovement()
+    {
+        Vector3 moveDirection = Vector3.zero;
+
         if (Input.GetKey(KeyCode.W))
         {
-            playerRigid.velocity = transform.forward * w_speed * Time.deltaTime;
+            moveDirection += transform.forward * w_speed * Time.deltaTime;
         }
-        // Backward movement
         if (Input.GetKey(KeyCode.S))
         {
-            playerRigid.velocity = -transform.forward * wb_speed * Time.deltaTime;
+            moveDirection -= transform.forward * wb_speed * Time.deltaTime;
         }
 
-        // Jumping (no ground check, can jump from any surface)
-        if (Input.GetKeyDown(KeyCode.Space))
+        // Apply movement while maintaining current vertical velocity
+        Vector3 velocity = new Vector3(moveDirection.x, playerRigid.velocity.y, moveDirection.z);
+        playerRigid.velocity = velocity;
+
+        // Jumping with a ground check
+        if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
             playerRigid.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             playerAnim.SetTrigger("jump");
         }
     }
 
-    // Update for regular input handling
-    void Update()
+    // Handle mouse movement for player rotation and camera pitch
+    void HandleMouseLook()
     {
-        // Handle mouse look
-        HandleMouseLook();
+        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
+        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
 
-        // Walking and running animations
+        playerTrans.Rotate(Vector3.up * mouseX);
+
+        xRotation -= mouseY;
+        xRotation = Mathf.Clamp(xRotation, -90f, 90f);
+        cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
+    }
+
+    // Manage player animations using triggers
+    void HandleAnimations()
+    {
         if (Input.GetKeyDown(KeyCode.W))
         {
             playerAnim.SetTrigger("walk");
@@ -62,6 +90,7 @@ public class PlayerCursorControll : MonoBehaviour
             playerAnim.SetTrigger("idle");
             walking = false;
         }
+
         if (Input.GetKeyDown(KeyCode.S))
         {
             playerAnim.SetTrigger("walkback");
@@ -72,6 +101,22 @@ public class PlayerCursorControll : MonoBehaviour
             playerAnim.ResetTrigger("walkback");
             playerAnim.SetTrigger("idle");
         }
+
+        // Handle running when walking
+        if (walking && Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            w_speed += rn_speed;
+            playerAnim.SetTrigger("run");
+            playerAnim.ResetTrigger("walk");
+        }
+        if (walking && Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            w_speed = olw_speed;
+            playerAnim.ResetTrigger("run");
+            playerAnim.SetTrigger("walk");
+        }
+
+        // Handle player rotation with A/D keys
         if (Input.GetKey(KeyCode.A))
         {
             playerTrans.Rotate(0, -ro_speed * Time.deltaTime, 0);
@@ -80,36 +125,11 @@ public class PlayerCursorControll : MonoBehaviour
         {
             playerTrans.Rotate(0, ro_speed * Time.deltaTime, 0);
         }
-        if (walking == true)
-        {
-            if (Input.GetKeyDown(KeyCode.LeftShift))
-            {
-                w_speed = w_speed + rn_speed;
-                playerAnim.SetTrigger("run");
-                playerAnim.ResetTrigger("walk");
-            }
-            if (Input.GetKeyUp(KeyCode.LeftShift))
-            {
-                w_speed = olw_speed;
-                playerAnim.ResetTrigger("run");
-                playerAnim.SetTrigger("walk");
-            }
-        }
     }
 
-    // Mouse look function to rotate player and camera
-    void HandleMouseLook()
+    // Check if the player is on the ground
+    void CheckGroundStatus()
     {
-        // Get mouse input
-        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-        float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
-
-        // Rotate the player based on horizontal mouse movement (left/right)
-        playerTrans.Rotate(Vector3.up * mouseX);
-
-        // Adjust vertical rotation for the camera (up/down)
-        xRotation -= mouseY;
-        xRotation = Mathf.Clamp(xRotation, -90f, 90f); // Limit look up/down to avoid full rotation
-        cameraTransform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
+        isGrounded = Physics.CheckSphere(playerTrans.position, 0.1f, groundMask);
     }
 }

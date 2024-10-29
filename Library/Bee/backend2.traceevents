@@ -1,396 +1,385 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1729450568107779, "dur":51, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568107870, "dur":29927, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568137809, "dur":127, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568138004, "dur":611, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568138818, "dur":174, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level1" }}
-,{ "pid":12345, "tid":0, "ts":1729450568139110, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level4.resS" }}
-,{ "pid":12345, "tid":0, "ts":1729450568140017, "dur":162, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets4.assets" }}
-,{ "pid":12345, "tid":0, "ts":1729450568140416, "dur":2225, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets8.assets" }}
-,{ "pid":12345, "tid":0, "ts":1729450568142658, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets8.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1729450568142734, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets8.resource" }}
-,{ "pid":12345, "tid":0, "ts":1729450568142959, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets9.assets" }}
-,{ "pid":12345, "tid":0, "ts":1729450568143016, "dur":183, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets9.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1729450568143496, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568143558, "dur":558, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568144127, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568144611, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568144735, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568144922, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568145576, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568146378, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568146551, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568146711, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568146968, "dur":156, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568147156, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568147848, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":0, "ts":1729450568148849, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":0, "ts":1729450568138661, "dur":10257, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568148920, "dur":643598, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568792534, "dur":183, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568792718, "dur":79, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568792797, "dur":115, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568793195, "dur":4278, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1729450568138935, "dur":10013, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1729450568148954, "dur":10721, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1729450568171663, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1729450568172192, "dur":771, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
-,{ "pid":12345, "tid":1, "ts":1729450568172970, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1729450568173138, "dur":1441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":1, "ts":1729450568174582, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":1, "ts":1729450568174993, "dur":223, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568175219, "dur":281, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568175503, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568175678, "dur":509, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568176190, "dur":707, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568176899, "dur":455, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568177358, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568177491, "dur":478, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568177972, "dur":243, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568178217, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568178354, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568178466, "dur":436, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568178904, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":1, "ts":1729450568179175, "dur":647, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playera879cfcd-inputdata.json" }}
-,{ "pid":12345, "tid":1, "ts":1729450568172968, "dur":7182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1729450568181642, "dur":170, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1729450568187715, "dur":594592, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1729450568789975, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1729450568789974, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1729450568790182, "dur":2018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/boot.config" }}
-,{ "pid":12345, "tid":2, "ts":1729450568139011, "dur":9964, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568148980, "dur":540, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568148980, "dur":1979, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568150960, "dur":8731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568159719, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":2, "ts":1729450568159696, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":2, "ts":1729450568160840, "dur":6795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":2, "ts":1729450568167700, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":2, "ts":1729450568168129, "dur":3921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":2, "ts":1729450568172132, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1729450568179176, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568172437, "dur":6812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1729450568179379, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
-,{ "pid":12345, "tid":2, "ts":1729450568179377, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project.exe" }}
-,{ "pid":12345, "tid":2, "ts":1729450568179474, "dur":2918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project.exe" }}
-,{ "pid":12345, "tid":2, "ts":1729450568189441, "dur":9931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568206919, "dur":109, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568199456, "dur":7591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568207149, "dur":7844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568215350, "dur":7162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568222600, "dur":6013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568228691, "dur":6708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568235512, "dur":4623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568250885, "dur":499, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568240233, "dur":11165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568251605, "dur":23223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568274933, "dur":14476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568295365, "dur":7180, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1729450568289527, "dur":13033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568302675, "dur":11996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568314760, "dur":57310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568372207, "dur":25791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568398097, "dur":277, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568398093, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568398456, "dur":216527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":2, "ts":1729450568615222, "dur":177450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568139076, "dur":9927, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568149225, "dur":524, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568149008, "dur":2669, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568151677, "dur":8042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568159721, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1729450568163269, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1729450568165490, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568165488, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568166983, "dur":2402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568169484, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568169482, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568170541, "dur":2123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568172737, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568172735, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568172946, "dur":5933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1729450568178952, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568178950, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568179213, "dur":95, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568199173, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568179382, "dur":19866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568199392, "dur":14136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568217731, "dur":751, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568218598, "dur":14832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568233552, "dur":5851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568239538, "dur":9822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568266356, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568249468, "dur":17004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568300069, "dur":2745, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568266624, "dur":36215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568308225, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568303555, "dur":4804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568308511, "dur":62990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568396964, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568371690, "dur":25495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568397743, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1729450568397825, "dur":17095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1729450568415165, "dur":13697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets5.resource" }}
-,{ "pid":12345, "tid":3, "ts":1729450568429070, "dur":103557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets3.resource" }}
-,{ "pid":12345, "tid":3, "ts":1729450568532693, "dur":259818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568138999, "dur":9963, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568148969, "dur":2089, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568151059, "dur":8906, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568159968, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1729450568205699, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568200869, "dur":4978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1729450568214715, "dur":387, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568205966, "dur":9291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568215904, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568216078, "dur":9696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568225868, "dur":4043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.ProBuilder.Stl.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568230031, "dur":14989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568245124, "dur":31359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568294939, "dur":7342, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568276613, "dur":25691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568302481, "dur":8366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568310936, "dur":80557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568459920, "dur":156, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1729450568391627, "dur":68521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1729450568461094, "dur":4923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":4, "ts":1729450568466143, "dur":21045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level7.resS" }}
-,{ "pid":12345, "tid":4, "ts":1729450568487292, "dur":19706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level5" }}
-,{ "pid":12345, "tid":4, "ts":1729450568507084, "dur":285215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568139063, "dur":9926, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568150114, "dur":564, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568148994, "dur":2456, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568151451, "dur":8243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568159730, "dur":441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1729450568159697, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1729450568193708, "dur":105, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568183261, "dur":10584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1729450568199304, "dur":6635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568212178, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568206066, "dur":6224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568212435, "dur":14332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568227077, "dur":3727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568230883, "dur":7110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568238095, "dur":5606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568243781, "dur":8546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568252519, "dur":34195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568300364, "dur":2606, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568286849, "dur":16195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568303179, "dur":5438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568308720, "dur":59346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568368187, "dur":94078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1729450568462391, "dur":10646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level9.resS" }}
-,{ "pid":12345, "tid":5, "ts":1729450568473318, "dur":18542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level7" }}
-,{ "pid":12345, "tid":5, "ts":1729450568500321, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568491992, "dur":8411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level4" }}
-,{ "pid":12345, "tid":5, "ts":1729450568500530, "dur":6302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level1.resS" }}
-,{ "pid":12345, "tid":5, "ts":1729450568514949, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1729450568506955, "dur":8098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":5, "ts":1729450568515133, "dur":277465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568139135, "dur":9958, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568150153, "dur":537, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568149098, "dur":2610, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568151708, "dur":7990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568159735, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":6, "ts":1729450568176368, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568172991, "dur":3503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":6, "ts":1729450568176607, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":6, "ts":1729450568185555, "dur":202, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568178747, "dur":7035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":6, "ts":1729450568189525, "dur":10398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568200062, "dur":12381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568212681, "dur":9320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568222135, "dur":6114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.ProBuilder.Csg.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568228524, "dur":7500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568236138, "dur":4561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568247765, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568240817, "dur":7104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568248267, "dur":14898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568263294, "dur":10432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568273815, "dur":2819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568276702, "dur":10637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568292088, "dur":9753, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1729450568287456, "dur":14413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568302159, "dur":69203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568371482, "dur":21632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568393226, "dur":8175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1729450568401730, "dur":4610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets9.assets" }}
-,{ "pid":12345, "tid":6, "ts":1729450568406489, "dur":8020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets8.assets" }}
-,{ "pid":12345, "tid":6, "ts":1729450568414628, "dur":37480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets6.assets.resS" }}
-,{ "pid":12345, "tid":6, "ts":1729450568452218, "dur":51651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":6, "ts":1729450568504032, "dur":44139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":6, "ts":1729450568548283, "dur":244178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568139178, "dur":9928, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568150528, "dur":716, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1729450568149110, "dur":2556, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568151666, "dur":8049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568159752, "dur":551, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
-,{ "pid":12345, "tid":7, "ts":1729450568159719, "dur":587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1729450568212221, "dur":672, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568202954, "dur":9960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1729450568213152, "dur":8806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":7, "ts":1729450568222090, "dur":63417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":7, "ts":1729450568285592, "dur":125498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1729450568411232, "dur":5194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets7.assets" }}
-,{ "pid":12345, "tid":7, "ts":1729450568416525, "dur":10955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets5.assets.resS" }}
-,{ "pid":12345, "tid":7, "ts":1729450568427597, "dur":3719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets4.assets" }}
-,{ "pid":12345, "tid":7, "ts":1729450568431413, "dur":3341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets3.assets" }}
-,{ "pid":12345, "tid":7, "ts":1729450568434866, "dur":2007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":7, "ts":1729450568446456, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568437010, "dur":9539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":7, "ts":1729450568446660, "dur":7458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets0.resource" }}
-,{ "pid":12345, "tid":7, "ts":1729450568458298, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568454244, "dur":4178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":7, "ts":1729450568458614, "dur":4024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":7, "ts":1729450568462775, "dur":21839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level8.resS" }}
-,{ "pid":12345, "tid":7, "ts":1729450568491218, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568484771, "dur":6543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level6.resS" }}
-,{ "pid":12345, "tid":7, "ts":1729450568498125, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1729450568491566, "dur":6647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level4.resS" }}
-,{ "pid":12345, "tid":7, "ts":1729450568498389, "dur":4696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level3" }}
-,{ "pid":12345, "tid":7, "ts":1729450568503251, "dur":10262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":7, "ts":1729450568513596, "dur":278917, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568139263, "dur":10003, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568150305, "dur":822, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568149269, "dur":2796, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568152065, "dur":7643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568159714, "dur":469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":8, "ts":1729450568182326, "dur":8695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":8, "ts":1729450568197871, "dur":5152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568203104, "dur":19156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568257160, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568222791, "dur":34481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568368974, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568257412, "dur":111649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568369170, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568369411, "dur":40874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1729450568417112, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568410665, "dur":6566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets7.assets.resS" }}
-,{ "pid":12345, "tid":8, "ts":1729450568417361, "dur":13645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets5.assets" }}
-,{ "pid":12345, "tid":8, "ts":1729450568435639, "dur":379, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568431229, "dur":4869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets3.assets.resS" }}
-,{ "pid":12345, "tid":8, "ts":1729450568461230, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568436346, "dur":25012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets1.resource" }}
-,{ "pid":12345, "tid":8, "ts":1729450568507362, "dur":179, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1729450568461488, "dur":46081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":8, "ts":1729450568507714, "dur":284615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568139306, "dur":10343, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568149659, "dur":1534, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568151194, "dur":8779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568159975, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":9, "ts":1729450568174891, "dur":3344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":9, "ts":1729450568178305, "dur":234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568178302, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568178833, "dur":12108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568194207, "dur":25593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568234021, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568219893, "dur":14292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568234328, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568234432, "dur":9003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568243619, "dur":14266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568262948, "dur":10932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568274021, "dur":5491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568322440, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568279613, "dur":42939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568322756, "dur":69309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568392271, "dur":7088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":9, "ts":1729450568405541, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568399490, "dur":6230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets9.resource" }}
-,{ "pid":12345, "tid":9, "ts":1729450568429344, "dur":1492, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568405867, "dur":25037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets8.resource" }}
-,{ "pid":12345, "tid":9, "ts":1729450568451634, "dur":292, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568431601, "dur":20374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets2.resource" }}
-,{ "pid":12345, "tid":9, "ts":1729450568461979, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568452168, "dur":9897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":9, "ts":1729450568485956, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568462222, "dur":23971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/resources.assets" }}
-,{ "pid":12345, "tid":9, "ts":1729450568486324, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568498931, "dur":88, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568486388, "dur":12732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level5.resS" }}
-,{ "pid":12345, "tid":9, "ts":1729450568499286, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level2" }}
-,{ "pid":12345, "tid":9, "ts":1729450568509982, "dur":137, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1729450568502223, "dur":8076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level1" }}
-,{ "pid":12345, "tid":9, "ts":1729450568510494, "dur":281781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568139346, "dur":10316, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568149719, "dur":2090, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":10, "ts":1729450568149667, "dur":2691, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568152359, "dur":7536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568159926, "dur":338, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1729450568159898, "dur":369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1729450568184072, "dur":106, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568195627, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568184207, "dur":11603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":10, "ts":1729450568196019, "dur":12338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568208495, "dur":8364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568216959, "dur":6732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568223811, "dur":6285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.ProBuilder.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568230174, "dur":21109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568276560, "dur":293, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568251393, "dur":25474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568300854, "dur":2388, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1729450568276970, "dur":26290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568303398, "dur":7153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568310722, "dur":59160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568369999, "dur":24234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568394339, "dur":6972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":10, "ts":1729450568401426, "dur":4635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets9.assets.resS" }}
-,{ "pid":12345, "tid":10, "ts":1729450568406148, "dur":7769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets8.assets.resS" }}
-,{ "pid":12345, "tid":10, "ts":1729450568413994, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets6.resource" }}
-,{ "pid":12345, "tid":10, "ts":1729450568414068, "dur":48535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets6.resource" }}
-,{ "pid":12345, "tid":10, "ts":1729450568462766, "dur":40171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level9" }}
-,{ "pid":12345, "tid":10, "ts":1729450568503099, "dur":9376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level0.resS" }}
-,{ "pid":12345, "tid":10, "ts":1729450568512602, "dur":280028, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568139402, "dur":10349, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568149755, "dur":1353, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568151108, "dur":8950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568160086, "dur":275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
-,{ "pid":12345, "tid":11, "ts":1729450568160060, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":11, "ts":1729450568203791, "dur":7728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":11, "ts":1729450568220322, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568211620, "dur":8849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568220733, "dur":29219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568250869, "dur":134, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568283706, "dur":434, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568251014, "dur":33520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568284876, "dur":6214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568300285, "dur":2554, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568291233, "dur":11623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568303221, "dur":6721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568310168, "dur":83168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568393824, "dur":71017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":11, "ts":1729450568465005, "dur":20503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level8" }}
-,{ "pid":12345, "tid":11, "ts":1729450568485616, "dur":8479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level6" }}
-,{ "pid":12345, "tid":11, "ts":1729450568498975, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1729450568494203, "dur":4927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level3.resS" }}
-,{ "pid":12345, "tid":11, "ts":1729450568499283, "dur":3837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level2.resS" }}
-,{ "pid":12345, "tid":11, "ts":1729450568503220, "dur":8276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/level0" }}
-,{ "pid":12345, "tid":11, "ts":1729450568511579, "dur":280691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568139454, "dur":10396, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568149851, "dur":9838, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568159705, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568159851, "dur":126, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":12, "ts":1729450568163024, "dur":2152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/app.info" }}
-,{ "pid":12345, "tid":12, "ts":1729450568165181, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":12, "ts":1729450568166949, "dur":2441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":12, "ts":1729450568169451, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":12, "ts":1729450568171296, "dur":2351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":12, "ts":1729450568173715, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":12, "ts":1729450568173925, "dur":5991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":12, "ts":1729450568180017, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":12, "ts":1729450568181043, "dur":17736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":12, "ts":1729450568198886, "dur":8477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568220329, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568207456, "dur":12977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568234120, "dur":224, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568220578, "dur":13800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568234598, "dur":23229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568262879, "dur":11519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568283993, "dur":167, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1729450568274528, "dur":10014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568284716, "dur":130141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":12, "ts":1729450568414989, "dur":3522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets6.assets" }}
-,{ "pid":12345, "tid":12, "ts":1729450568418644, "dur":13608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets4.assets.resS" }}
-,{ "pid":12345, "tid":12, "ts":1729450568432364, "dur":4462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets2.assets.resS" }}
-,{ "pid":12345, "tid":12, "ts":1729450568436996, "dur":134938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall project_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":12, "ts":1729450568572004, "dur":220369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1729450568803053, "dur":2187, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1729843579226352, "dur":51, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843579226453, "dur":30112, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843579256574, "dur":120, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843579256749, "dur":455, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843579257427, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1729843579258394, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":0, "ts":1729843579257229, "dur":4205, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843579261436, "dur":831639, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843580093077, "dur":360, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843580093438, "dur":145, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843580093583, "dur":153, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843580093974, "dur":4655, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1729843579257809, "dur":3675, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729843579261493, "dur":8391, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729843579271716, "dur":1264, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1729843579272991, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1729843579273189, "dur":13528, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1729843579286722, "dur":524, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1729843579287847, "dur":2749, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579290602, "dur":1921, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579292533, "dur":2824, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579295363, "dur":2588, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579297957, "dur":7945, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579305907, "dur":691, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579306602, "dur":616, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579307223, "dur":2725, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579309952, "dur":696, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579310653, "dur":224, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579310880, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579311026, "dur":1794, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579312825, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\visur\\Desktop\\Vault Fall project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579313125, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729843579313299, "dur":185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player0fbe3115-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1729843579272988, "dur":40728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1729843579314354, "dur":141, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729843579315684, "dur":767052, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1729843580090933, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1729843580090931, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1729843580091134, "dur":1837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1729843579258321, "dur":3282, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579261608, "dur":1775, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579263383, "dur":6547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579269973, "dur":1891, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1729843579269943, "dur":1924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1729843579275939, "dur":8859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1729843579285078, "dur":412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579285074, "dur":420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579306603, "dur":526, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579288363, "dur":18800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579307762, "dur":1266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579311885, "dur":16404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579329221, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579329285, "dur":40732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579370281, "dur":19759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579390181, "dur":6335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579424683, "dur":681, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579396722, "dur":28690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579450208, "dur":6868, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579425754, "dur":31347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579457365, "dur":135743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729843579938018, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729843579593287, "dur":344845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1729843579938227, "dur":154860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729843579257977, "dur":3529, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729843579261509, "dur":2025, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729843579263535, "dur":6365, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729843579269960, "dur":527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1729843579269911, "dur":578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1729843579273095, "dur":15396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1729843579288573, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1729843579289739, "dur":18340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1729843579308346, "dur":10395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579319108, "dur":17253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579336526, "dur":15458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579352284, "dur":11646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579364067, "dur":6905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579371138, "dur":8435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579379717, "dur":12491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579392341, "dur":27513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579420002, "dur":667, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729843579420679, "dur":18042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579481454, "dur":2491, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729843579439062, "dur":44910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579484256, "dur":12410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579496890, "dur":14090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729843579511240, "dur":17416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets8.resource" }}
+,{ "pid":12345, "tid":3, "ts":1729843579528843, "dur":49525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":3, "ts":1729843579578547, "dur":32764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":3, "ts":1729843579611414, "dur":12164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1729843579623824, "dur":7638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1729843579631594, "dur":87733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1729843579719442, "dur":108954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level6" }}
+,{ "pid":12345, "tid":3, "ts":1729843579829054, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1729843579829168, "dur":28804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level1.resS" }}
+,{ "pid":12345, "tid":3, "ts":1729843579858323, "dur":234861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729843579257923, "dur":3575, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729843579261501, "dur":2144, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729843579263645, "dur":6293, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729843579269940, "dur":1874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1729843579275815, "dur":7186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1729843579283129, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1729843579286752, "dur":12252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1729843579299291, "dur":39398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579356258, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729843579338805, "dur":17589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579356573, "dur":9575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579366357, "dur":8424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579375016, "dur":16191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579391335, "dur":12729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579405204, "dur":31625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579451698, "dur":4348, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729843579437318, "dur":18766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579456377, "dur":18489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579475005, "dur":26454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729843579501641, "dur":12939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets9.resource" }}
+,{ "pid":12345, "tid":4, "ts":1729843579514758, "dur":10518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1729843579525403, "dur":52876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":4, "ts":1729843579578481, "dur":166861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1729843579745510, "dur":64295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level5.resS" }}
+,{ "pid":12345, "tid":4, "ts":1729843579809925, "dur":4176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level3.resS" }}
+,{ "pid":12345, "tid":4, "ts":1729843579814258, "dur":44162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1729843579858533, "dur":234635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579258064, "dur":3450, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579261518, "dur":1871, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579263390, "dur":6506, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579269913, "dur":652, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579274820, "dur":4110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1729843579278938, "dur":371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1729843579279702, "dur":6099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1729843579285893, "dur":211, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579285890, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579286684, "dur":23734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579316274, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579310552, "dur":5834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579316560, "dur":11245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579328191, "dur":64813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579393268, "dur":26447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579419874, "dur":768, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579454691, "dur":1807, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579420660, "dur":35870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579456890, "dur":20377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579477393, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579477390, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579488002, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579477520, "dur":10650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579488326, "dur":28798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729843579517444, "dur":23408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1729843579548762, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729843579541111, "dur":7784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1729843579549156, "dur":35280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1729843579584552, "dur":80094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1729843579665301, "dur":142341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level8" }}
+,{ "pid":12345, "tid":5, "ts":1729843579807761, "dur":19677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level4" }}
+,{ "pid":12345, "tid":5, "ts":1729843579827889, "dur":22609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1729843579850624, "dur":9032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1729843579859747, "dur":233370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579258164, "dur":3375, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579261546, "dur":1993, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579263540, "dur":6405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579269948, "dur":374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1729843579276746, "dur":4460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1729843579281312, "dur":289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1729843579281308, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1729843579281648, "dur":7263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1729843579303176, "dur":167, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579290707, "dur":12673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579311535, "dur":259, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579303630, "dur":8273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579312038, "dur":18586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579330958, "dur":585, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579352615, "dur":153, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579331555, "dur":21240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579353141, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579367821, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579353210, "dur":14774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579368556, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579411152, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579368656, "dur":42577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579411397, "dur":93496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729843579527194, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579505211, "dur":22163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets9.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1729843579573094, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579527568, "dur":45629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1729843579573441, "dur":131, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579573584, "dur":37940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":6, "ts":1729843579611647, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579625076, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579611710, "dur":13491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1729843579625465, "dur":3537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1729843579629221, "dur":2381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1729843579639511, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579631736, "dur":7904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1729843579639856, "dur":20294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level9" }}
+,{ "pid":12345, "tid":6, "ts":1729843579660312, "dur":88562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level8.resS" }}
+,{ "pid":12345, "tid":6, "ts":1729843579833309, "dur":563, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729843579749031, "dur":84890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level5" }}
+,{ "pid":12345, "tid":6, "ts":1729843579834297, "dur":25053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1729843579859450, "dur":233773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579258215, "dur":3372, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579261597, "dur":1640, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579263238, "dur":6687, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579269928, "dur":1813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1729843579275820, "dur":6125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1729843579282107, "dur":1287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1729843579286085, "dur":3153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1729843579300889, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579290630, "dur":10427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579311658, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579301477, "dur":10285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579311892, "dur":13323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579325381, "dur":1304, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579326700, "dur":4858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579375166, "dur":601, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579331691, "dur":44184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579376166, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579412925, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579376239, "dur":36831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579413291, "dur":10136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579518238, "dur":256, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579423586, "dur":95123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1729843579529178, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579519087, "dur":10190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":7, "ts":1729843579529618, "dur":42644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1729843579589274, "dur":132, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729843579572576, "dur":16864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1729843579589656, "dur":160500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1729843579750285, "dur":103441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level4.resS" }}
+,{ "pid":12345, "tid":7, "ts":1729843579853824, "dur":239377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579258390, "dur":3232, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579261631, "dur":2010, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579263642, "dur":6317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579269984, "dur":720, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1729843579269961, "dur":745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1729843579278402, "dur":4405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1729843579282883, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1729843579282881, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1729843579286537, "dur":13356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1729843579300039, "dur":9747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579309933, "dur":7999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579318055, "dur":8627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579326875, "dur":16880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579343999, "dur":13252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579357466, "dur":13674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579386725, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579371293, "dur":15550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579387382, "dur":12110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579430001, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579399717, "dur":30436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579430971, "dur":40014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579482619, "dur":631, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729843579471138, "dur":12159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579483613, "dur":13635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579497371, "dur":546, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579497364, "dur":603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579498047, "dur":446908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729843579945152, "dur":147920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579258467, "dur":3207, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579261688, "dur":2120, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579263809, "dur":6097, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579269949, "dur":737, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1729843579269908, "dur":781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1729843579277927, "dur":4612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":9, "ts":1729843579282679, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1729843579283159, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579286809, "dur":12840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1729843579299814, "dur":5870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579305825, "dur":8188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579324271, "dur":1883, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579314411, "dur":11780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579326588, "dur":1238, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579327840, "dur":31471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579359421, "dur":10132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579369704, "dur":19594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579389736, "dur":35180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579425027, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579432217, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579425097, "dur":7207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579432626, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579432709, "dur":16213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579449307, "dur":16898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579466384, "dur":22583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579489488, "dur":60, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579489567, "dur":881, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579515502, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579490463, "dur":25448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1729843579516182, "dur":11208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":9, "ts":1729843579556268, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729843579527582, "dur":38764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":9, "ts":1729843579573714, "dur":116629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1729843579690484, "dur":144500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level7" }}
+,{ "pid":12345, "tid":9, "ts":1729843579835342, "dur":24747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level0.resS" }}
+,{ "pid":12345, "tid":9, "ts":1729843579860215, "dur":232921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579258532, "dur":3195, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579261740, "dur":2147, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579263887, "dur":6034, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579269966, "dur":1884, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1729843579269923, "dur":1930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1729843579275824, "dur":5888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1729843579281807, "dur":541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1729843579282407, "dur":3865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1729843579286354, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":10, "ts":1729843579286353, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project.exe" }}
+,{ "pid":12345, "tid":10, "ts":1729843579286521, "dur":2995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project.exe" }}
+,{ "pid":12345, "tid":10, "ts":1729843579290559, "dur":9443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579324196, "dur":470, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579300235, "dur":24832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579325359, "dur":820, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579326198, "dur":22501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579349165, "dur":11108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579370929, "dur":295, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729843579360746, "dur":10507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579371631, "dur":36545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579408545, "dur":59077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579468015, "dur":122867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729843579591157, "dur":250969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":10, "ts":1729843579842433, "dur":17389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":10, "ts":1729843579859903, "dur":233199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579258607, "dur":3141, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579261754, "dur":1330, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579263085, "dur":6831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579269935, "dur":709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1729843579275600, "dur":8215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":11, "ts":1729843579283898, "dur":369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1729843579284285, "dur":232, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579304205, "dur":147, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579290925, "dur":13453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1729843579304663, "dur":9898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579314684, "dur":8823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579323639, "dur":7381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579372375, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579331296, "dur":41171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579372632, "dur":46024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579432639, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579419041, "dur":13707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579445512, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579432959, "dur":12644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579466144, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579445743, "dur":20649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579466636, "dur":156359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729843579623125, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1729843579627554, "dur":6195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1729843579634127, "dur":56199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level9.resS" }}
+,{ "pid":12345, "tid":11, "ts":1729843579690458, "dur":123027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level7.resS" }}
+,{ "pid":12345, "tid":11, "ts":1729843579813616, "dur":26458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level3" }}
+,{ "pid":12345, "tid":11, "ts":1729843579872470, "dur":10537, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729843579840310, "dur":42776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1729843579884473, "dur":208680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579258659, "dur":3113, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579261773, "dur":8137, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579269914, "dur":752, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1729843579275716, "dur":6499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1729843579282369, "dur":508, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.39f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1729843579282366, "dur":515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1729843579304089, "dur":233, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579286425, "dur":17930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1729843579304587, "dur":8282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579338179, "dur":120, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579313473, "dur":24856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579374232, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579339081, "dur":35296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579382355, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579374819, "dur":7708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579382902, "dur":245, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579383176, "dur":10617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579393982, "dur":16679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579424063, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579410822, "dur":13340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579424655, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579424736, "dur":53898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579490692, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579478833, "dur":11985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579490960, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579491023, "dur":18787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729843579510021, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579704110, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579510088, "dur":194293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":12, "ts":1729843579704610, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579838115, "dur":185, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579704691, "dur":133725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level6.resS" }}
+,{ "pid":12345, "tid":12, "ts":1729843579838875, "dur":57, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729843579838945, "dur":13864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/visur/Desktop/Game-VAULT FALL/Vault Fall Game/Vault Fall project_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1729843579853047, "dur":240021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729843580104659, "dur":2337, "ph":"X", "name": "ProfilerWriteOutput" }
 ,

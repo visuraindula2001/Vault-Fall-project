@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\visur\\Desktop\\Vault Fall project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|c:\\users\\visur\\desktop\\vault fall project\\assets\\scripts\\death scripts\\falldamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\death scripts\\falldamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|C:\\Users\\visur\\Desktop\\Vault Fall project\\assets\\scripts\\player script\\playercursorcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player script\\playercursorcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|C:\\Users\\visur\\Desktop\\Vault Fall project\\assets\\scripts\\death scripts\\firecubedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\death scripts\\firecubedeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|C:\\Users\\visur\\Desktop\\Vault Fall project\\assets\\scripts\\object scripts\\leveldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\object scripts\\leveldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|c:\\users\\visur\\desktop\\vault fall project\\assets\\scripts\\death scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|C:\\Users\\visur\\Desktop\\Vault Fall project\\assets\\scripts\\death scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395885D9-4A22-E7DB-2DF8-73F40E55C546}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\death scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,24 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireCubeDeath.cs",
+              "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Death Scripts\\FireCubeDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Death Scripts\\FireCubeDeath.cs",
+              "ToolTip": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Death Scripts\\FireCubeDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Death Scripts\\FireCubeDeath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:56:37.149Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FallDamage.cs",
+              "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Death Scripts\\FallDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Death Scripts\\FallDamage.cs",
+              "ToolTip": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Death Scripts\\FallDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Death Scripts\\FallDamage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:52:50.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCursorControll.cs",
+              "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Player Script\\PlayerCursorControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Script\\PlayerCursorControll.cs",
+              "ToolTip": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Player Script\\PlayerCursorControll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Script\\PlayerCursorControll.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAqwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:21:20.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LevelDisplay.cs",
               "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Object Scripts\\LevelDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Object Scripts\\LevelDisplay.cs",
               "ToolTip": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Object Scripts\\LevelDisplay.cs",
               "RelativeToolTip": "Assets\\Scripts\\Object Scripts\\LevelDisplay.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA8wB4AAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:36:02.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T18:36:02.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ChestInteraction.cs",
               "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\VictoryScript\\ChestInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\VictoryScript\\ChestInteraction.cs",
@@ -51,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameTimer.cs",
               "DocumentMoniker": "C:\\Users\\visur\\Desktop\\Vault Fall project\\Assets\\Scripts\\Death Scripts\\GameTimer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Death Scripts\\GameTimer.cs",
@@ -59,8 +107,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Death Scripts\\GameTimer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T18:09:37.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T18:09:37.378Z"
             }
           ]
         }
